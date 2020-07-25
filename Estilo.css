@@ -1,0 +1,45 @@
+body{ /*CSS*/
+    background-color: white;
+}
+div{
+    background-color: white;
+    font: normal 15pt DK Lemon Yellow Sun;
+    box-shadow: 10px 10px 10px black;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}
+h1{
+    background-color: rgb(232, 27, 44);
+    border-bottom: 2.5px black solid;
+}
+img{
+    border:5px black solid;
+}
+div h3{
+    text-align:start;
+    font: bold 20pt DK Lemon Yellow Sun;
+}
+div h4{
+    font: bold 20pt DK Lemon Yellow Sun;
+    text-align: end;
+}
+div h5{
+    font: bold 20pt DK Lemon Yellow Sun;
+    text-align: center;
+}
+div u{
+    text-decoration-color: red;
+}
+#paragrafo_1{
+    text-align: start;
+}
+#paragrafo_2{ 
+    text-align: end;
+}
+#paragrafo_3{
+    text-align:end;
+}
+#paragrafo_4{
+    text-align: center;
+}
